@@ -1,0 +1,3 @@
+	Database- A organized collection of data. It is the collection of tables, queries, reports, views and other objects. The data is typically organized 
+to model aspects of reality in a way that supports processes requiring information, such a modelling the availability of rooms in hotels in a way that
+supports finding a hotel with cacancies.

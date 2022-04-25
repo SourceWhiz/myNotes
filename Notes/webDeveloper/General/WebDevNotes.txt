@@ -1,0 +1,45 @@
+Html and CSS Notes
+
+learn the basics of html and css
+	HTML5 and Semantic Tags(page layout)
+	CSS fundamentals
+	CSS alignment(flexbox, CSS Grid)
+	Media queries/ Responsice Design
+	Simple animations/ Transitions
+
+Tools to get started with
+	SASS(being replaced by CSS but is similar and easy to use)
+	PostCSS is a tool for transforming CSS with JavaScript.
+
+Learn CSS Frameworks(learn CSS first and then a framework)
+	Bootstrap 5- Popular high level framework
+	Tailwind CSS- low-level, utility based framework
+	Materialize- Based on material design	
+	Bulma- Mobile-first, modular framework
+	Foundation- Advanced CSS framework
+
+UI Design Principles
+	Color and Contrast- text should be readable
+	Whitespace- Check space between elements
+	Scale- Relative element sizing
+	Visual Hierarchy- Arrange in order of importance 	
+	Typography- Typeface, sizing, etc
+
+JavaScript(Is the language of the browser)
+	JS Basics- Data types, data structures, functions, loops
+	DOM- documanet object model
+	Async JS- Promises,Async/Await
+	Fetch API and HTTP- Make requests to API's and understand HTTP
+	Array Methods- Map, filter,reduce, etc
+
+Extra Programming Tools
+	Git- is a popular version control system. It is used with remote repositirues such as github, gitlab, and BitBucket.	
+	NPM(Node package manager)- is a package manager used to install packages into your project. NPM requires Node.js to be installed.
+	Browsere Dev Toos are important for all types of developers- Element selector, console, storage, network activity, etc.
+	Text editors(extensions)- Emmet, live server, prettier, ESlint, Github Copilto, etc.
+
+Deploying your Frontend Projects
+	Popular Platforms- netlify, vercel, cpanel, amazon S3.
+	Domain Name Registrars- namecheap, Domain.com, bluehost, GoDaddy. 
+There is multiple ways to deploy a hosting platform
+

@@ -1,0 +1,66 @@
+
+
+														HTML
+
+HTML (Hyper Text Markup Language) is made of "Tags" and communicates to different internet browsers the structure of a internet page. It is considered a "Hyper Text" because it can be connected to other documents. HTML makes it possible
+to have images, videos, forms, and links on a website. It serves as the backbone and bulding block for web development. The language has been used since 1991 and was updated to HTML2, HTML3.2, HTML4, HTML4.01, XHTML in early 2000,
+and HTML5 in 2008. HTML5 is the main html language used today. 
+														
+
+													The Structure of a HTML Page
+
+There are 2 main words when reffering to a html file and thats "Document" & "Page". The file is considered a document when talking about the code you create and edit on your computer(IDE's). It is considered a page when viewing it
+through the web browser. The browser expects the document to be formated and structured a certain way for it to process properly. The 2 main sections of a HTML document is the "head" and the "body". 
+
+
+														Tag Structure
+
+TAG="non-hierarchical keyword or term assigned to a piece of information"(ex. <button> Button </button>). The browser looks for tags and purposefully ignores them and then displays the information given to the user. An HTML Tag is just a
+special "keyword" with special formatting, that is used to surround a piece of content and applies special meaning to it. Another name for tags can be "HTML Element", both of them having the same 3 contents( Opening tag, tag content
+and closing tag). Tags are also able to have attributes that give them more functionality(ex. <strong class="keyword"> Tag Content </strong>). 
+
+
+														Attributes
+
+														
+
+
+
+
+
+
+														Basic HTML Setup
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title> Title</title>
+</head>
+<body>
+
+</body>
+</html>
+
+
+Browsers expect html to be writtten in an exact format and when the format is not exact it can sometimes fill in the missing pieces for you, but it should not be relied on. A HTML document or file requires a declartion of that html type
+you are using at the top followed by a"<html>, "<head>" and a "<body>" Tag. The head typically contains the title of the document, while the body has all the content.The "<meta>" tag does not need a closing tag and should contain the
+character set used to type the script. Currently "utf-8" is the most used and accepted on the world wide web. 
+
+
+														<body> Tag 
+
+<body>
+	<h1> Lorium Ipsum</h1>
+	<h2> lorium ipsum</h2>
+	<h3> lorium ipsum</h3>
+	<h4> lorium ipsum</h4>
+	<h5> lorium ipsum</h5>
+	<h6> lorium ipsum</h6>
+
+<p> This is a p tag that html uses to display large amounts of text on the web.
+</p
+</body>
+
+bodys can have 6 "<h>" elements that are ment to be headings on the page. Body's also contain "<p>" Tags that display large paragraphs of text on the web. "Lorium Ipsum is a place holder text that programmers traditionaly use and is a
+bunch of fake words and letters combined to mean nothing, until replaced with offical text later on. 

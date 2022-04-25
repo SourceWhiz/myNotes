@@ -1,0 +1,9 @@
+														HTML TAGS
+
+
+<header>...</header>
+The <header> HTML element represents introductory content, typically a group of introductory or navigational aids. It may contain some heading elements but also a logo,a search form, an author name, and other elements.
+
+<strong>...<strong>
+The <strong> element makes text within the tag bold. Can be used anywhere in text. 
+
